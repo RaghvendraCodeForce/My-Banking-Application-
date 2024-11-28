@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Raghav.BankingApplicaton.Banking_App.BankingAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.435 s -- in Raghav.BankingApplicaton.Banking_App.BankingAppApplicationTests
